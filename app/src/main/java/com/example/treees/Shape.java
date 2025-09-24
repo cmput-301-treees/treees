@@ -3,9 +3,9 @@ package com.example.treees;
 public abstract class Shape {
     String color = "orange";
     int x, y;
+    String colour = "purple";
 
     public abstract void getArea(int x, int y);
     public abstract void getPerimeter(int x, int y);
     public abstract void getShape();
-
 }
