@@ -1,9 +1,9 @@
 package com.example.treees;
 
-public class Rectangle extends Shape{
+public class Rectangle2 extends Shape{
     int x,y;
 
-    public Rectangle(int x, int y) {
+    public Rectangle2(int x, int y) {
         this.x = x;
         this.y = y;
     }
