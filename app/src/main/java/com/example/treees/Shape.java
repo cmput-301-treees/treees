@@ -6,5 +6,4 @@ public abstract class Shape {
     public abstract void getArea(int x, int y);
     public abstract void getPerimeter(int x, int y);
     public abstract void getShape();
-
 }
